@@ -1,4 +1,4 @@
 # apnacollege
 This is my first repo.
 <br>
-Author- Navneet Mishra
+Author- Navneet Ji
